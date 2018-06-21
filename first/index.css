@@ -1,0 +1,32 @@
+body {
+    margin: 0;
+    padding: 0;
+}
+
+
+nav {
+    background-color: dimgray;
+    height: 20vh;
+  }
+
+.maindiv{
+    height: 80vh;
+    background-color: lightgray;
+
+}
+
+.content-div{
+    height: 100%;
+    background-color: white;
+    margin: auto;
+    width: 70%;
+}
+
+
+.bottom-div {
+    height: 20%;
+    background-color:  black;
+    width: 100%;
+    position: relative;
+    top: 645px ;
+}
